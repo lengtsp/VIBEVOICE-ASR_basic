@@ -4,6 +4,8 @@ Thai/multilingual speech-to-text with speaker diarization and noise reduction.
 
 > **Source:** [microsoft/VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR) on Hugging Face
 
+# example from https://www.youtube.com/watch?v=nFxaVr64idY
+
 ---
 
 ## Requirements
